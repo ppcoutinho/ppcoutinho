@@ -1,16 +1,17 @@
-## Hi there 👋
+Olá, eu me chamo Pedro Paulo Coutinho
 
-<!--
-**ppcoutinho/ppcoutinho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📍 Brasil
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📜 Certificados
+
+PROGRAMAÇÃO
+- Algoritmos e Lógica de Programação - O Curso COMPLETO , Nélio Alves (udemy)
+  📅 2026
+  🔗 https://www.udemy.com/certificate/UC-dc7df401-2c13-4bbb-b68d-c1abbc13a1bd/
+
+  
+
+## 📊 GitHub Stats
+![Stats](https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=default)
